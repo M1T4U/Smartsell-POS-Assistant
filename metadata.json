@@ -1,0 +1,6 @@
+{
+  "name": "SmartSell AI Assistant",
+  "description": "An advanced conversational assistant to help users understand and navigate the SmartSell POS ecosystem. Ask anything about features, pricing, compatibility, and more.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
